@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PersonNode()
+comment1.params=last\ first\ middle\ id
+comment1.target=PersonNode(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getLastName()
+comment3.params=
+comment3.target=java.lang.String\ getFirstName()
+comment4.params=
+comment4.target=java.lang.String\ getMiddleName()
+comment5.params=
+comment5.target=java.lang.String\ getIdNum()
+comment6.params=n1
+comment6.target=int\ compareTo(PersonNode)
+numComments=7

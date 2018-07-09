@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=n1\ n2
+comment0.target=int\ compare(PersonNode,\ PersonNode)
+numComments=1
