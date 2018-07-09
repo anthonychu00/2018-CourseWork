@@ -36,8 +36,8 @@ function HttpRequest(p1, p2) {
 	var lat = p1;
 	var lng = p2;
 	var xhr = new XMLHttpRequest();
-	var url = "https://lit-basin-27434.herokuapp.com/rides";
-	var params = "username=ZlGKGGCSJq&lat="+lat+"&lng="+lng;
+	var url = "localhost";
+	var params = "username=Chebyshev&lat="+lat+"&lng="+lng;
 	xhr.open("POST", url, true);
 	xhr.onreadystatechange = function() {
 	    if(xhr.readyState == 4 && xhr.status == 200) {
